@@ -1,0 +1,12 @@
+
+---
+
+## 🧩 **requirements.txt**
+
+```txt
+streamlit
+torch
+pandas
+numpy
+scikit-learn
+joblib
